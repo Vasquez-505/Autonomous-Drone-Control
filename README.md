@@ -17,7 +17,7 @@ Design and implementation of a full autonomous controller for the
 optimal estimation, and LQR control — validated in simulation and 
 deployed on the physical drone.
 
-## Phase I — Dynamic Modelling & Classical Control (March 2025)
+## Phase I — Dynamic Modelling & Classical Control (March 2026)
 
 - Nonlinear quadcopter dynamic model implemented in Simulink 
   based on rigid body equations of motion
@@ -30,7 +30,7 @@ deployed on the physical drone.
 - Motor saturation modelling — conversion between generalised 
   forces and motor command signals with input constraints
 
-## Phase II — Optimal Estimation & LQR Control (May 2025)
+## Phase II — Optimal Estimation & LQR Control (May 2026)
 
 - Kalman-Bucy continuous-time state observer — formulated with 
   realistic measurement and process noise covariance matrices 
@@ -42,7 +42,7 @@ deployed on the physical drone.
 - Yaw angle compensation — adjusted observer and tracking error 
   to handle large yaw rotations via in-plane rotation matrix
 
-## Phase III — Discrete-Time Implementation & Hardware Deployment (June 2025)
+## Phase III — Discrete-Time Implementation & Hardware Deployment (June 2026)
 
 - Discrete-time LQR servo controller — Zero-Order Hold 
   discretisation at 5ms sampling period
