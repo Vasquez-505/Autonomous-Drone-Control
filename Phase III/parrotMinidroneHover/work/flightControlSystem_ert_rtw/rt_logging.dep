@@ -1,0 +1,29 @@
+rt_logging.o rt_logging.o: \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/rt_logging.c \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/rt_logging.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/builtin_typeid_types.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/multiword_types.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/rt_mxclassid.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_matlogging.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/sl_types_def.h
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/rt_logging.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/builtin_typeid_types.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/multiword_types.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/rtw/c/src/rt_mxclassid.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_matlogging.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/sl_types_def.h:

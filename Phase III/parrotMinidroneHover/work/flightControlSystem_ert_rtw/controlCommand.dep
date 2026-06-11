@@ -1,0 +1,20 @@
+controlCommand.o controlCommand.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/src/controlCommand.c \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/controlCommand.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/HAL.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/flightControlSystem_types.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025b\toolbox\target\supportpackages\parrot\include\HAL.h
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/controlCommand.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/HAL.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/flightControlSystem_types.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025b\toolbox\target\supportpackages\parrot\include\HAL.h:

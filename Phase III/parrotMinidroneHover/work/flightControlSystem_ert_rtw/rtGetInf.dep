@@ -1,0 +1,14 @@
+rtGetInf.o rtGetInf.o: \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtGetInf.c \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtGetInf.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rt_nonfinite.h
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/extern/include/tmwtypes.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rtGetInf.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/rt_nonfinite.h:

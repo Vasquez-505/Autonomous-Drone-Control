@@ -1,0 +1,8 @@
+ptimer.o ptimer.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/src/ptimer.c \
+ C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/ptimer.h \
+ C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/MW_target_hardware_resources.h
+
+C:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/target/supportpackages/parrot/include/ptimer.h:
+
+C:/Users/joaom/ONEDRI~1/DOCUME~2/4_year/2_SEME~1/CO/Project/PARROT~1/work/flightControlSystem_ert_rtw/MW_target_hardware_resources.h:
